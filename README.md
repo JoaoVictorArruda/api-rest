@@ -1,6 +1,10 @@
 ## API Rest
+### Check online
+```bash
+https://api-rest-spring-docker.herokuapp.com/api/customers
+```
 
-## How it works:
+## Or using docker. How it works:
 ### **1. Docker. First, you need to install docker**
 * Download Docker [Here](https://docs.docker.com/docker-for-windows/install/). Hint: Enable Hyper-V feature on windows and restart;
 * Then open powershell and check:
