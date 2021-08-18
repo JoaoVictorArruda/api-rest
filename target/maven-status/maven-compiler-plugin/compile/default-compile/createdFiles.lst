@@ -1,0 +1,7 @@
+br\arruda\springrestapi\model\AuditorAwareImpl.class
+br\arruda\springrestapi\model\Customer.class
+br\arruda\springrestapi\CustomerController.class
+br\arruda\springrestapi\ResourceNotFoundException.class
+br\arruda\springrestapi\SpringPostgresDockerApplication.class
+br\arruda\springrestapi\repository\CustomerRepository.class
+br\arruda\springrestapi\model\CustomerAudit.class
